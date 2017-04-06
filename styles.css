@@ -63,12 +63,29 @@ body {
 .sandpic {
 	float: left;
 	text-align: center;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
 	vertical-align: middle;
 }
+.bodybox h2 {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: left;
+	font-size: x-large;
+}
+
 .bodybox {
 	overflow: hidden;
 	text-align: center;
 	border-width: medium;
 	border-style: solid;
+	margin: 40;
 	background-color: #FFCC5C;
+}
+.bodybox p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	margin: 20;
+	padding: 20;
+	text-align: left;
 }
