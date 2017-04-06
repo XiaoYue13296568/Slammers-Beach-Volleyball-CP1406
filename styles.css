@@ -89,3 +89,35 @@ body {
 	padding: 20;
 	text-align: left;
 }
+
+.bodybox .announcements {
+	text-align: center;
+}
+
+.bluegirlgame {
+	float: right;
+	text-align: center;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	vertical-align: middle;
+}
+
+.spikepic {
+	float: left;
+	text-align: center;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	vertical-align: middle;
+}
+.bodybox .homemessage {
+	text-align: center;
+}
+
+.bodybox .welcome {
+	text-align: center;
+}
+
