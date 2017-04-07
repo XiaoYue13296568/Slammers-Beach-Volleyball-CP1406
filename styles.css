@@ -121,3 +121,6 @@ body {
 	text-align: center;
 }
 
+.bodybox li {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
